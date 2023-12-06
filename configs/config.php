@@ -25,7 +25,7 @@ $options = array (
     'transload' => 'transload',
   ),
   'template_used' => 'plugmod',
-  'default_language' => 'en',
+  'default_language' => 'zh-cn',
   'show_all' => true,
   'server_info' => true,
   'ajax_refresh' => true,
